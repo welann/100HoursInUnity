@@ -1,0 +1,16 @@
+D:\100HoursInUnity\CSlearning\CSlearning\bin\Debug\net5.0\CSlearning.exe
+D:\100HoursInUnity\CSlearning\CSlearning\bin\Debug\net5.0\CSlearning.deps.json
+D:\100HoursInUnity\CSlearning\CSlearning\bin\Debug\net5.0\CSlearning.runtimeconfig.json
+D:\100HoursInUnity\CSlearning\CSlearning\bin\Debug\net5.0\CSlearning.runtimeconfig.dev.json
+D:\100HoursInUnity\CSlearning\CSlearning\bin\Debug\net5.0\CSlearning.dll
+D:\100HoursInUnity\CSlearning\CSlearning\bin\Debug\net5.0\ref\CSlearning.dll
+D:\100HoursInUnity\CSlearning\CSlearning\bin\Debug\net5.0\CSlearning.pdb
+D:\100HoursInUnity\CSlearning\CSlearning\obj\Debug\net5.0\CSlearning.csproj.AssemblyReference.cache
+D:\100HoursInUnity\CSlearning\CSlearning\obj\Debug\net5.0\CSlearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\100HoursInUnity\CSlearning\CSlearning\obj\Debug\net5.0\CSlearning.AssemblyInfoInputs.cache
+D:\100HoursInUnity\CSlearning\CSlearning\obj\Debug\net5.0\CSlearning.AssemblyInfo.cs
+D:\100HoursInUnity\CSlearning\CSlearning\obj\Debug\net5.0\CSlearning.csproj.CoreCompileInputs.cache
+D:\100HoursInUnity\CSlearning\CSlearning\obj\Debug\net5.0\CSlearning.dll
+D:\100HoursInUnity\CSlearning\CSlearning\obj\Debug\net5.0\ref\CSlearning.dll
+D:\100HoursInUnity\CSlearning\CSlearning\obj\Debug\net5.0\CSlearning.pdb
+D:\100HoursInUnity\CSlearning\CSlearning\obj\Debug\net5.0\CSlearning.genruntimeconfig.cache
